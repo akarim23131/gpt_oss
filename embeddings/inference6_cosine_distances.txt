@@ -1,0 +1,4 @@
+sentence_index,cosine_distance
+1,0.82763128
+2,0.85990644
+3,0.86969726
